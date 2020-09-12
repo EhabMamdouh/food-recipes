@@ -1,3 +1,4 @@
+(if you like this app please give me a star)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
