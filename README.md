@@ -1,10 +1,10 @@
-![Uploading SNAG-42
-![SNAG-42012417281300](https://user-images.githubusercontent.com/59305419/92998981-9f148400-f51d-11ea-87b5-ed266dcbc26b.png)
-![SNAG-42012417282900](https://user-images.githubusercontent.com/59305419/92998983-a2a80b00-f51d-11ea-8447-f49bffc9fa31.png)
-![SNAG-42012417285200](https://user-images.githubusercontent.com/59305419/92998986-a89dec00-f51d-11ea-95ac-94c3c2afc862.png)
+![SNAG-42012417275800](https://user-images.githubusercontent.com/59305419/92999016-f31f6880-f51d-11ea-827a-2487455cf25b.png)
 
+![SNAG-42012417281300](https://user-images.githubusercontent.com/59305419/92999021-f9154980-f51d-11ea-829b-8ed20d334aef.png)
 
-012417275800.png…]()
+![SNAG-42012417282900](https://user-images.githubusercontent.com/59305419/92999022-fca8d080-f51d-11ea-8180-7efc0977998d.png)
+
+![SNAG-42012417285200](https://user-images.githubusercontent.com/59305419/92999026-003c5780-f51e-11ea-99c3-7969326fd3f9.png)
 
 
 ### (if you like this app please give me a star)
